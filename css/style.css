@@ -40,7 +40,9 @@ p{
    
 
 }
-
+.foot{
+    height: fit-content;
+}
 footer{clear: both;
     background-color: blueviolet;
     color: black;
